@@ -1,0 +1,30 @@
+[
+  {
+    "reservationId":123456,
+    "guest":"Petr Klas",
+    "room":"Double room",
+    "type": "day",
+    "prices":{
+      "2019-05-01":"25.3",
+      "2019-05-02":"25.3",
+      "2019-05-03":"25.3",
+      "2019-05-04":"25.3",
+    },
+    "currency":"EUR",
+    "alreadyPaid":"50"
+  },
+  {
+    "reservationId":569833,
+    "guest":"Miro Zbirka",
+    "room":"Sauna",
+    "type": "hour",
+    "prices":{
+      "2019-06-08T14:00:00":"900",
+      "2019-06-08T15:00:00":"800",
+      "2019-06-08T16:00:00":"800",
+      "2019-06-08T17:00:00":"800"
+    },
+    "currency":"CZK",
+    "alreadyPaid":"500"
+  }
+]

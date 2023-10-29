@@ -1,0 +1,44 @@
+[
+  {
+    "reservationId":123456,
+    "firstName":"Petr",
+    "lastName":"Klas",
+    "room":"Double room",
+    "term":{
+      "from":"2019-05-01",
+      "to":"2019-05-05",
+      "nights":4
+    },
+    "priceToBePaid":[
+      {
+        "currency":"CZK",
+        "price":"1331.2"
+      },
+      {
+        "currency":"EUR",
+        "price":"51.2"
+      }
+    ]
+  },
+  {
+    "reservationId":569833,
+    "firstName":"Miro",
+    "lastName":"Zbirka",
+    "room":"Sauna",
+    "term":{
+      "from":"2019-06-08T14:00:00",
+      "to":"2019-06-08T17:00:00",
+      "hours":4
+    },
+    "priceToBePaid":[
+      {
+        "currency":"CZK",
+        "price":"2800"
+      },
+      {
+        "currency":"EUR",
+        "price":"107.69"
+      }
+    ]
+  }
+]
